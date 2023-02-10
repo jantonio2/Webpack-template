@@ -1,0 +1,11 @@
+{
+  "name": "webpack-initial",
+  "version": "1.0.0",
+  "description": "Initial state of a webpack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus Carlos Antonio Rocha Vedia <jesusrochavedia@gmail.com>",
+  "license": "MIT"
+}
